@@ -20,6 +20,7 @@ if(xpHeroi <= 1000) {
 }else if(xpHeroi >= 10001) {
     console.log(msgFinal + "Radiante");
 }
+
 /*
 erro no exercicio com a classificação
 Ex: final valor prata 5000, inicio valor ouro 6001
